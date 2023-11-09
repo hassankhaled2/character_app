@@ -6,7 +6,7 @@ import '../../data/models/episode.dart';
 import '../../data/repoistory/characters.repoistory.dart';
 
 part 'character_state.dart';
-
+//d
 class CharactersCubit extends Cubit<CharacterState> {
   final  CharactersRepoistory characterRepoistory;
   List< Character >characters=[];
